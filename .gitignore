@@ -1,0 +1,8 @@
+# NetBeans / Ant build outputs
+/build/
+/dist/
+/nbproject/private/
+
+# Optional: OS / editor junk
+.DS_Store
+Thumbs.db
